@@ -1,0 +1,59 @@
+/* STYLES! */
+
+/* If you see this, bring your belt to school because I want us to say, "Alright everybody, line up against the wall, you're going to get whipped." */
+
+* {
+    font-family: sans-serif;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #000020;
+} /* Everything */
+
+p, button {
+    font-size: 16pt; /* Font size for the <p> element AND the <button> element */
+} /* Main text */
+
+
+/* Left and right margins */
+p {
+    margin-left: 128px;
+    margin-right: 128px;
+}
+
+hr {
+    margin-left: 256px;
+    margin-right: 256px;
+}
+
+
+h1 {
+    font-size: 38pt; /* 38 MEME NUMBER WHOOOOOOOOOOOOOOOOOOOOOOO */
+} /* Title */
+
+
+/* The buttons */
+.button {
+    cursor: pointer;
+    background-color: #00AF00; /* Green */
+    padding: 16px 32px;
+}
+.buttonNO {background-color: #AF0000;} /* Red */
+.buttonBLUE {background-color: #4040FF;} /* Blue */
+.buttonNORMAL {background-color: #404040;} /* Gray */
+
+
+.navigationHR {
+    margin-left: 128px;
+    margin-right: 128px;
+} /* DIFFERENT then the other <hr> styling */
+
+#whySchoolSucksList {
+    font-size:20pt ;
+} /* This is ONLY for the <p> in the whyschoolsucks.html file */
+
+.mathBoxes {
+    width: 128px;
+    height: 32px;
+    border-color: #FFFFFF;
+    border-width: 2px;
+}
